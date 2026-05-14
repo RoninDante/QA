@@ -1,0 +1,18 @@
+# QA Auto Tests
+
+Автотесты для учебного магазина SauceDemo.
+
+## Стек
+- Python
+- Selenium WebDriver
+
+## Тесты
+1. Успешный логин
+2. Ошибка при неверном пароле
+3. Добавление товара в корзину
+
+## Запуск
+
+pip install selenium
+python test_login.py 
+
