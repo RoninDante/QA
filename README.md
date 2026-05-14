@@ -24,8 +24,9 @@
 ## Как запустить тесты на своем компьютере?
 
 1. **Склонируй репозиторий:**
-   ```bash
-   git clone https://github.com/RoninDante/qa-auto-tests.git
+   
+```bash
+git clone https://github.com/RoninDante/qa-auto-tests.git
    ```
    
 Перейди в папку с проектом:
